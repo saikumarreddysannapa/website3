@@ -1,0 +1,85 @@
+.nav-item {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.first {
+  box-shadow: 0px 1px 5px rgb(206, 205, 205);
+}
+.line {
+  border: 1px solid rgb(228, 225, 225);
+}
+.line1 {
+  border: 1px solid grey;
+}
+.borders {
+  border-style: dotted;
+  padding: 30px;
+  border-color: green;
+  padding-left: 120px;
+}
+.dot {
+  text-decoration: none;
+}
+.s-1 {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: rgb(240, 245, 245);
+  height: 250px;
+}
+.sidebar {
+  height: 500px;
+  overflow-y: scroll;
+}
+.spin {
+  display: flex;
+}
+.main-content {
+  height: 500px;
+}
+.s-2 {
+  background-color: rgb(228, 240, 240);
+}
+.font {
+  font-size: 13px;
+}
+.image {
+  padding-top: 50px;
+  padding-left: 50px;
+  display: flex;
+}
+.badge {
+  font-size: 15px;
+  color: grey;
+}
+.sec-dat {
+  margin-top: 4rem;
+}
+.ano-sidebar {
+  margin-top: 15rem;
+}
+.card {
+  background-color: rgb(231, 248, 248);
+  border: 0;
+}
+.sizes {
+  font-size: 40px;
+}
+.colo {
+  background-color: rgb(238, 245, 245);
+}
+.lists {
+  font-size: 15px;
+}
+.sym {
+  padding-top: 8px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.butt {
+  padding: 6px 50px;
+}
+.butt1 {
+  padding: 6px 70px;
+}
+.footer {
+  margin-top: 4rem;
+}
